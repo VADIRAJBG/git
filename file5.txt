@@ -3,4 +3,4 @@ mango
 guava
 cherry
 sapota
-pineapple2
+pineapple
