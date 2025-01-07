@@ -1,6 +1,6 @@
 apple
 mango
-guava
-cherry
-sapota
-pineapple
+guava2
+cherry2
+sapota2
+pineapple2
