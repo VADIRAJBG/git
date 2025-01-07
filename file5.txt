@@ -2,3 +2,4 @@ apple
 mango
 guava1
 cherry2
+pineapple3
