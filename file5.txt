@@ -2,5 +2,5 @@ apple
 mango
 guava
 cherry
-sapota2
+sapota
 pineapple2
