@@ -4,3 +4,6 @@ guava1
 cherry2
 pineapple3
 sapota
+cherry
+sapota
+pineapple
