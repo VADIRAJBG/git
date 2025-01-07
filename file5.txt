@@ -3,3 +3,4 @@ mango
 guava
 cherry
 sapota
+pineapple
